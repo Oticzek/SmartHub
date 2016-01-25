@@ -1,0 +1,6 @@
+sitemap default label= "Project" {
+
+Frame 	{
+	Switch item=Light label="Light"
+}
+}
