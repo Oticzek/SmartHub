@@ -1,0 +1,1 @@
+Switch Light "Light" {mqtt=">[broker:/openhab:command:ON:1],>[broker:/openhab:command:OFF:0]"}
